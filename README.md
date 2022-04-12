@@ -1,5 +1,5 @@
 # Food4Good
-Project for HackViolet VT
+Project for HackViolet VT 2021
 
 An app that allows non-profit organizations as well as the public to store the location information of low-income families and thus provide them with free food and supplies.
 
