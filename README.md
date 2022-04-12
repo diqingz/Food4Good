@@ -1,6 +1,8 @@
 # Food4Good
 Project for HackViolet VT
 
+An app that allows non-profit organizations as well as the public to store the location information of low-income families and thus provide them with free food and supplies.
+
 *figma design for app:*
 https://www.figma.com/file/WOHWo69tEr5vlwrRCtvNgy/HackViolet-F4G?node-id=0%3A1
 
